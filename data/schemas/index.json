@@ -1,6 +1,29 @@
 {
   "schema": 2,
-  "updatedAt": null,
-  "files": {},
-  "versions": []
+  "updatedAt": "2026-11-11T01:33:19.026Z",
+  "files": {
+    "ffbf4457b6fd288b2b354560cb000cb2ea81dda1307aced6818f80d9e80d5c11": {
+      "path": "ffbf4457b6fd288b2b354560cb000cb2ea81dda1307aced6818f80d9e80d5c11.json",
+      "size": 407613,
+      "tables": 126,
+      "views": 64,
+      "enums": 46,
+      "postgres": "17.11"
+    }
+  },
+  "versions": [
+    {
+      "key": "v3.4.0",
+      "kind": "release",
+      "ref": "v3.4.0",
+      "refType": "tag",
+      "commit": null,
+      "pr": null,
+      "server": null,
+      "appVersion": "3.4.0",
+      "at": "2026-11-11T01:33:19.026Z",
+      "runUrl": null,
+      "sha256": "ffbf4457b6fd288b2b354560cb000cb2ea81dda1307aced6818f80d9e80d5c11"
+    }
+  ]
 }
