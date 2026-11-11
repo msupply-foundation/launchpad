@@ -1,12 +1,12 @@
 {
   "schema": 2,
-  "updatedAt": "2026-11-11T02:26:23.593Z",
+  "updatedAt": "2026-11-11T04:13:19.898Z",
   "files": {
-    "ffbf4457b6fd288b2b354560cb000cb2ea81dda1307aced6818f80d9e80d5c11": {
-      "path": "ffbf4457b6fd288b2b354560cb000cb2ea81dda1307aced6818f80d9e80d5c11.json",
-      "size": 407613,
-      "tables": 126,
-      "views": 64,
+    "5d9fb87f871bd7461be69d075aaffd39b1a00c0fe14adaf16872155f44371b50": {
+      "path": "5d9fb87f871bd7461be69d075aaffd39b1a00c0fe14adaf16872155f44371b50.json",
+      "size": 411436,
+      "tables": 127,
+      "views": 65,
       "enums": 46,
       "postgres": "17.11"
     },
@@ -121,6 +121,14 @@
       "views": 64,
       "enums": 46,
       "postgres": "17.11"
+    },
+    "ffbf4457b6fd288b2b354560cb000cb2ea81dda1307aced6818f80d9e80d5c11": {
+      "path": "ffbf4457b6fd288b2b354560cb000cb2ea81dda1307aced6818f80d9e80d5c11.json",
+      "size": 407613,
+      "tables": 126,
+      "views": 64,
+      "enums": 46,
+      "postgres": "17.11"
     }
   },
   "versions": [
@@ -133,9 +141,9 @@
       "pr": null,
       "server": null,
       "appVersion": "3.5.0",
-      "at": "2026-11-11T02:26:23.593Z",
+      "at": "2026-11-11T04:13:19.898Z",
       "runUrl": null,
-      "sha256": "ffbf4457b6fd288b2b354560cb000cb2ea81dda1307aced6818f80d9e80d5c11"
+      "sha256": "5d9fb87f871bd7461be69d075aaffd39b1a00c0fe14adaf16872155f44371b50"
     },
     {
       "key": "v2.17.03",
