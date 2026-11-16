@@ -1,14 +1,14 @@
 {
   "schema": 2,
-  "updatedAt": "2026-11-13T05:36:35.605Z",
+  "updatedAt": "2026-11-16T02:51:26.654Z",
   "files": {
-    "5d9fb87f871bd7461be69d075aaffd39b1a00c0fe14adaf16872155f44371b50": {
-      "path": "5d9fb87f871bd7461be69d075aaffd39b1a00c0fe14adaf16872155f44371b50.json",
+    "5c248de75ce6e4d05cedb2c28c25b87fdd33c47e58baff525ccd98eed5ff85e5": {
+      "path": "5c248de75ce6e4d05cedb2c28c25b87fdd33c47e58baff525ccd98eed5ff85e5.json",
       "size": 411436,
       "tables": 127,
       "views": 65,
       "enums": 46,
-      "postgres": "17.11"
+      "postgres": "17.12"
     },
     "0313353542059421f1ded3a31c3868af4dbc74b05438c853181002647d8947dd": {
       "path": "0313353542059421f1ded3a31c3868af4dbc74b05438c853181002647d8947dd.json",
@@ -141,9 +141,9 @@
       "pr": null,
       "server": null,
       "appVersion": "3.5.0",
-      "at": "2026-11-13T05:36:35.605Z",
+      "at": "2026-11-16T02:51:26.654Z",
       "runUrl": null,
-      "sha256": "5d9fb87f871bd7461be69d075aaffd39b1a00c0fe14adaf16872155f44371b50"
+      "sha256": "5c248de75ce6e4d05cedb2c28c25b87fdd33c47e58baff525ccd98eed5ff85e5"
     },
     {
       "key": "v2.17.03",
