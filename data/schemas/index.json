@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "updatedAt": "2026-11-19T04:03:41.151Z",
+  "updatedAt": "2026-11-19T10:56:36.141Z",
   "files": {
-    "72beb6db391dd51b5c326f2e5362da673ec0e826295db6c11dc420f0519b2c87": {
-      "path": "72beb6db391dd51b5c326f2e5362da673ec0e826295db6c11dc420f0519b2c87.json",
-      "size": 413781,
+    "a08373d57672c09cd9a93825672166e05075c5154c40519d2afa837a539af78a": {
+      "path": "a08373d57672c09cd9a93825672166e05075c5154c40519d2afa837a539af78a.json",
+      "size": 417214,
       "tables": 127,
       "views": 65,
       "enums": 46,
@@ -141,9 +141,9 @@
       "pr": null,
       "server": null,
       "appVersion": "3.5.0",
-      "at": "2026-11-19T04:03:41.151Z",
+      "at": "2026-11-19T10:56:36.141Z",
       "runUrl": null,
-      "sha256": "72beb6db391dd51b5c326f2e5362da673ec0e826295db6c11dc420f0519b2c87"
+      "sha256": "a08373d57672c09cd9a93825672166e05075c5154c40519d2afa837a539af78a"
     },
     {
       "key": "v2.17.03",
