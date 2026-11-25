@@ -1,20 +1,20 @@
 {
   "schema": 2,
-  "updatedAt": "2026-11-25T06:05:57.225Z",
+  "updatedAt": "2026-11-25T11:36:18.988Z",
   "files": {
-    "1c28d28eff18b895b3d6f4c1d15b04b192bb7b77116c1cfb3c33175d08dd8040": {
-      "path": "1c28d28eff18b895b3d6f4c1d15b04b192bb7b77116c1cfb3c33175d08dd8040.json",
-      "size": 407613,
-      "tables": 126,
-      "views": 64,
-      "enums": 46,
-      "postgres": "17.12"
-    },
     "7998a297b2004e5c84f5daab4f0d40d7c937d7b633d5017075a1a3f8cdacabb0": {
       "path": "7998a297b2004e5c84f5daab4f0d40d7c937d7b633d5017075a1a3f8cdacabb0.json",
       "size": 417429,
       "tables": 127,
       "views": 65,
+      "enums": 46,
+      "postgres": "17.12"
+    },
+    "1c28d28eff18b895b3d6f4c1d15b04b192bb7b77116c1cfb3c33175d08dd8040": {
+      "path": "1c28d28eff18b895b3d6f4c1d15b04b192bb7b77116c1cfb3c33175d08dd8040.json",
+      "size": 407613,
+      "tables": 126,
+      "views": 64,
       "enums": 46,
       "postgres": "17.12"
     },
@@ -141,6 +141,19 @@
   },
   "versions": [
     {
+      "key": "develop",
+      "kind": "develop",
+      "ref": "develop",
+      "refType": "branch",
+      "commit": null,
+      "pr": null,
+      "server": null,
+      "appVersion": "3.5.0",
+      "at": "2026-11-25T11:36:18.988Z",
+      "runUrl": null,
+      "sha256": "7998a297b2004e5c84f5daab4f0d40d7c937d7b633d5017075a1a3f8cdacabb0"
+    },
+    {
       "key": "v3.4.1",
       "kind": "release",
       "ref": "v3.4.1",
@@ -152,19 +165,6 @@
       "at": "2026-11-24T04:08:36.426Z",
       "runUrl": null,
       "sha256": "1c28d28eff18b895b3d6f4c1d15b04b192bb7b77116c1cfb3c33175d08dd8040"
-    },
-    {
-      "key": "develop",
-      "kind": "develop",
-      "ref": "develop",
-      "refType": "branch",
-      "commit": null,
-      "pr": null,
-      "server": null,
-      "appVersion": "3.5.0",
-      "at": "2026-11-25T06:05:57.225Z",
-      "runUrl": null,
-      "sha256": "7998a297b2004e5c84f5daab4f0d40d7c937d7b633d5017075a1a3f8cdacabb0"
     },
     {
       "key": "v2.17.03",
