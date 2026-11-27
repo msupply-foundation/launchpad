@@ -1,12 +1,12 @@
 {
   "schema": 2,
-  "updatedAt": "2026-11-26T22:58:34.567Z",
+  "updatedAt": "2026-11-27T03:18:44.287Z",
   "files": {
-    "7998a297b2004e5c84f5daab4f0d40d7c937d7b633d5017075a1a3f8cdacabb0": {
-      "path": "7998a297b2004e5c84f5daab4f0d40d7c937d7b633d5017075a1a3f8cdacabb0.json",
-      "size": 417429,
-      "tables": 127,
-      "views": 65,
+    "367b14fd6382c50621a98fc0223c6ae72c57ddfad7dbed5119423b3f717cc992": {
+      "path": "367b14fd6382c50621a98fc0223c6ae72c57ddfad7dbed5119423b3f717cc992.json",
+      "size": 420050,
+      "tables": 128,
+      "views": 66,
       "enums": 46,
       "postgres": "17.12"
     },
@@ -149,9 +149,9 @@
       "pr": null,
       "server": null,
       "appVersion": "3.5.0",
-      "at": "2026-11-26T22:58:34.567Z",
+      "at": "2026-11-27T03:18:44.287Z",
       "runUrl": null,
-      "sha256": "7998a297b2004e5c84f5daab4f0d40d7c937d7b633d5017075a1a3f8cdacabb0"
+      "sha256": "367b14fd6382c50621a98fc0223c6ae72c57ddfad7dbed5119423b3f717cc992"
     },
     {
       "key": "v3.4.1",
